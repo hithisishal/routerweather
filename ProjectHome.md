@@ -1,0 +1,1 @@
+AVR-gcc software, plus shell scripts, to display information from the internet, through a router running openwrt, on external hardware.
